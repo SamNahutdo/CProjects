@@ -72,5 +72,6 @@
 
 :exploding_head:If more than 6. Invalid Selection
 
-![alt text](http://url/to/![Screenshot 2025-01-19 211109](https://github.com/user-attachments/assets/2e748d57-1d46-476c-b52b-a8c9ea4354f0)
+Click Here to view;
+(http://url/to/![Screenshot 2025-01-19 211109](https://github.com/user-attachments/assets/2e748d57-1d46-476c-b52b-a8c9ea4354f0)
 )
