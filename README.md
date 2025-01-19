@@ -2,41 +2,72 @@
 
 
 
-//Hotel Room Management System By:
-//Sam Nahutdo "Programmer"
-//Rie Fortuna  
-//kirt cruz
+:exploding_head:Hotel Room Management System By:
 
-//Features?
+:exploding_head:Sam Nahutdo "Programmer"
 
-//1. Availability
-//Display Availability
+:exploding_head:Rie Fortuna  
 
-//2. Book a room
-//Choose a room either Expensive or Cheap
-//Choose a available room
-//Invalid Selection
-//Room booked
-//Room Unavailable
+:exploding_head:kirt cruz
 
-//3. Show Customer Details
-//Enter room number to see details
-//Invalid Selection
-//Display Customer Details
-//Room is not booked yet
 
-//4. Cancellation
-//Enter room Number to cancel
-//Invalid Selection
-//Room cancelled Succesfully
-//Room is not found
+:exploding_head:Features?
 
-//5. Restaurant Service
-//Choose option 1-3 or 0 to return
-//Your order is proceed to your room
-//Returning to main
-//Invalid Selection
 
-//6. Thank you for visiting KiSaRie Hotel!, Come again.
 
-//If more than 6. Invalid Selection
+:exploding_head:1. Availability
+
+:exploding_head:Display Availability
+
+
+:exploding_head:2. Book a room
+
+:exploding_head:Choose a room either Expensive or Cheap
+
+:exploding_head:Choose a available room
+
+:exploding_head:Invalid Selection
+
+:exploding_head:Room booked
+
+:exploding_head:Room Unavailable
+
+
+:exploding_head:3. Show Customer Details
+
+:exploding_head:Enter room number to see details
+
+:exploding_head:Invalid Selection
+
+:exploding_head:Display Customer Details
+
+:exploding_head:Room is not booked yet
+
+
+:exploding_head:4. Cancellation
+
+:exploding_head:Enter room Number to cancel
+
+:exploding_head:Invalid Selection
+
+:exploding_head:Room cancelled Succesfully
+
+:exploding_head:Room is not found
+
+
+:exploding_head:5. Restaurant Service
+
+:exploding_head:Choose option 1-3 or 0 to return
+
+:exploding_head:Your order is proceed to your room
+
+:exploding_head:Returning to main
+
+:exploding_head:Invalid Selection
+
+
+
+:exploding_head:6. Thank you for visiting KiSaRie Hotel!, Come again.
+
+
+:exploding_head:If more than 6. Invalid Selection
