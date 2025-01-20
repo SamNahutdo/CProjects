@@ -1,4 +1,4 @@
-:grinning:   Hotel Mangement Room Management System using C languages
+:grinning:   Hotel Room Management System using C language
 
 
 
